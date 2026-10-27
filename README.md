@@ -1,2 +1,1 @@
-# PythonHomework
-# PythonHomework
+Theppithak Maprng 6912732106
